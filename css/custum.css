@@ -1,0 +1,10 @@
+.py-2-7 {
+    padding-top: 0.7rem !important;
+    padding-bottom: 0.7rem !important;
+}
+.car-card{
+    height: 214px;
+    justify-content: center;
+    display: flex
+
+}
